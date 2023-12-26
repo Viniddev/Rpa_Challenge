@@ -1,0 +1,8 @@
+##ignorar a pasta executavel
+
+exec
+/.vs/ProjectEvaluation
+/.vs/RPA_Teste
+/RPA_Teste/bin
+/RPA_Teste/obj
+/RPA_Teste/Properties/PublishProfiles
